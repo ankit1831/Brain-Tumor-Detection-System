@@ -1,0 +1,27 @@
+[ 2025-02-18 00:45:02,049 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-02-18 00:45:02,074 ] 31 root - INFO - Read the dataset as dataframe
+[ 2025-02-18 00:45:02,109 ] 37 root - INFO - Train test split initiated
+[ 2025-02-18 00:45:02,144 ] 44 root - INFO - Inmgestion of the data iss completed
+[ 2025-02-18 00:45:02,180 ] 86 root - INFO - Read train and test data completed
+[ 2025-02-18 00:45:02,180 ] 88 root - INFO - Obtaining preprocessing object
+[ 2025-02-18 00:45:02,180 ] 62 root - INFO - Categorical columns: []
+[ 2025-02-18 00:45:02,180 ] 63 root - INFO - Numerical columns: ['Variance', 'Standard_Deviation', 'Entropy', 'Skewness', 'Kurtosis', 'Contrast', 'Energy', 'ASM', 'Homogeneity', 'Dissimilarity']
+[ 2025-02-18 00:45:02,180 ] 100 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-02-18 00:45:02,191 ] 112 root - INFO - Saved preprocessing object.
+[ 2025-02-18 00:45:11,796 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-18 00:45:11,798 ] 97 werkzeug - INFO -  * Debugger PIN: 841-779-559
+[ 2025-02-18 00:45:11,995 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:45:11] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:45:12,281 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:45:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-02-18 00:45:37,334 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:45:37] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:45:49,160 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:45:49] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:46:03,380 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:03] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:46:19,034 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:19] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:46:28,517 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:28] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:46:50,029 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:50] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:46:50,815 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:50] "[35m[1mPOST /predicttdata HTTP/1.1[0m" 500 -
+[ 2025-02-18 00:46:50,991 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:50] "GET /predicttdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-18 00:46:51,004 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:51] "GET /predicttdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-02-18 00:46:51,055 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:51] "GET /predicttdata?__debugger__=yes&cmd=resource&f=console.png&s=KLwCHTzRiPHtLWtgxDkv HTTP/1.1" 200 -
+[ 2025-02-18 00:46:51,100 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:46:51] "GET /predicttdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-02-18 00:47:03,028 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:47:03] "POST /predicttdata HTTP/1.1" 200 -
+[ 2025-02-18 00:49:11,744 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 00:49:11] "POST /predicttdata HTTP/1.1" 200 -

@@ -1,0 +1,12 @@
+[ 2025-02-17 19:42:19,012 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-02-17 19:42:19,024 ] 31 root - INFO - Read the dataset as dataframe
+[ 2025-02-17 19:42:19,057 ] 37 root - INFO - Train test split initiated
+[ 2025-02-17 19:42:19,094 ] 44 root - INFO - Inmgestion of the data iss completed
+[ 2025-02-17 19:42:19,131 ] 86 root - INFO - Read train and test data completed
+[ 2025-02-17 19:42:19,131 ] 88 root - INFO - Obtaining preprocessing object
+[ 2025-02-17 19:42:19,131 ] 62 root - INFO - Categorical columns: []
+[ 2025-02-17 19:42:19,131 ] 63 root - INFO - Numerical columns: ['Variance', 'Standard_Deviation', 'Entropy', 'Skewness', 'Kurtosis', 'Contrast', 'Energy', 'ASM', 'Homogeneity', 'Dissimilarity']
+[ 2025-02-17 19:42:19,133 ] 100 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-02-17 19:42:19,134 ] 112 root - INFO - Saved preprocessing object.
+[ 2025-02-17 19:42:25,672 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-17 19:42:25,675 ] 97 werkzeug - INFO -  * Debugger PIN: 841-779-559

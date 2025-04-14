@@ -1,0 +1,12 @@
+[ 2025-02-19 00:29:04,905 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-02-19 00:29:04,918 ] 31 root - INFO - Read the dataset as dataframe
+[ 2025-02-19 00:29:04,949 ] 37 root - INFO - Train test split initiated
+[ 2025-02-19 00:29:04,982 ] 44 root - INFO - Inmgestion of the data iss completed
+[ 2025-02-19 00:29:05,013 ] 86 root - INFO - Read train and test data completed
+[ 2025-02-19 00:29:05,013 ] 88 root - INFO - Obtaining preprocessing object
+[ 2025-02-19 00:29:05,014 ] 62 root - INFO - Categorical columns: []
+[ 2025-02-19 00:29:05,014 ] 63 root - INFO - Numerical columns: ['Variance', 'Standard_Deviation', 'Entropy', 'Skewness', 'Kurtosis', 'Contrast', 'Energy', 'ASM', 'Homogeneity', 'Dissimilarity']
+[ 2025-02-19 00:29:05,014 ] 100 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-02-19 00:29:05,020 ] 112 root - INFO - Saved preprocessing object.
+[ 2025-02-19 00:29:05,022 ] 42 root - INFO - Split training and test input data
+[ 2025-02-19 00:29:08,733 ] 140 root - INFO - Best found model on both training and testing dataset

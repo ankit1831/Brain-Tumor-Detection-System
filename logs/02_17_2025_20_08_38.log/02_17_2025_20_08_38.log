@@ -1,0 +1,13 @@
+[ 2025-02-17 20:08:38,370 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-02-17 20:08:38,370 ] 31 root - INFO - Read the dataset as dataframe
+[ 2025-02-17 20:08:38,401 ] 37 root - INFO - Train test split initiated
+[ 2025-02-17 20:08:38,449 ] 44 root - INFO - Inmgestion of the data iss completed
+[ 2025-02-17 20:08:38,482 ] 86 root - INFO - Read train and test data completed
+[ 2025-02-17 20:08:38,482 ] 88 root - INFO - Obtaining preprocessing object
+[ 2025-02-17 20:08:38,482 ] 62 root - INFO - Categorical columns: []
+[ 2025-02-17 20:08:38,482 ] 63 root - INFO - Numerical columns: ['Variance', 'Standard_Deviation', 'Entropy', 'Skewness', 'Kurtosis', 'Contrast', 'Energy', 'ASM', 'Homogeneity', 'Dissimilarity']
+[ 2025-02-17 20:08:38,484 ] 100 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-02-17 20:08:38,490 ] 112 root - INFO - Saved preprocessing object.
+[ 2025-02-17 20:08:44,663 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-17 20:08:44,669 ] 97 werkzeug - INFO -  * Debugger PIN: 841-779-559
+[ 2025-02-17 20:10:45,684 ] 97 werkzeug - INFO -  * Detected change in 'D:\\vit study\\self preparation\\machine learning\\Brain Tumor Detection System\\dll.py', reloading

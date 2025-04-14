@@ -1,0 +1,14 @@
+[ 2025-02-18 19:06:57,011 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-02-18 19:06:57,024 ] 31 root - INFO - Read the dataset as dataframe
+[ 2025-02-18 19:06:57,061 ] 37 root - INFO - Train test split initiated
+[ 2025-02-18 19:06:57,102 ] 44 root - INFO - Inmgestion of the data iss completed
+[ 2025-02-18 19:06:57,136 ] 86 root - INFO - Read train and test data completed
+[ 2025-02-18 19:06:57,136 ] 88 root - INFO - Obtaining preprocessing object
+[ 2025-02-18 19:06:57,136 ] 62 root - INFO - Categorical columns: []
+[ 2025-02-18 19:06:57,136 ] 63 root - INFO - Numerical columns: ['Variance', 'Standard_Deviation', 'Entropy', 'Skewness', 'Kurtosis', 'Contrast', 'Energy', 'ASM', 'Homogeneity', 'Dissimilarity']
+[ 2025-02-18 19:06:57,136 ] 100 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-02-18 19:06:57,147 ] 112 root - INFO - Saved preprocessing object.
+[ 2025-02-18 19:07:06,894 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-18 19:07:06,894 ] 97 werkzeug - INFO -  * Debugger PIN: 119-479-441
+[ 2025-02-18 19:07:07,034 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 19:07:07] "[33mGET /predictdata HTTP/1.1[0m" 404 -
+[ 2025-02-18 19:07:07,050 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 19:07:07] "GET /predicttdata HTTP/1.1" 200 -

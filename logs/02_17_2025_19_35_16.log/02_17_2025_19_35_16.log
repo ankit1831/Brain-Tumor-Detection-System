@@ -1,0 +1,16 @@
+[ 2025-02-17 19:35:16,692 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-02-17 19:35:16,707 ] 31 root - INFO - Read the dataset as dataframe
+[ 2025-02-17 19:35:16,736 ] 37 root - INFO - Train test split initiated
+[ 2025-02-17 19:35:16,771 ] 44 root - INFO - Inmgestion of the data iss completed
+[ 2025-02-17 19:35:16,801 ] 86 root - INFO - Read train and test data completed
+[ 2025-02-17 19:35:16,801 ] 88 root - INFO - Obtaining preprocessing object
+[ 2025-02-17 19:35:16,801 ] 62 root - INFO - Categorical columns: []
+[ 2025-02-17 19:35:16,801 ] 63 root - INFO - Numerical columns: ['Variance', 'Standard_Deviation', 'Entropy', 'Skewness', 'Kurtosis', 'Contrast', 'Energy', 'ASM', 'Homogeneity', 'Dissimilarity']
+[ 2025-02-17 19:35:16,802 ] 100 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-02-17 19:35:16,808 ] 112 root - INFO - Saved preprocessing object.
+[ 2025-02-17 19:35:21,521 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.25.177.250:8080
+[ 2025-02-17 19:35:21,521 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-02-17 19:35:21,523 ] 97 werkzeug - INFO -  * Restarting with stat

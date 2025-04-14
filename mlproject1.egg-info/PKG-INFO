@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: mlproject1
+Version: 0.0.1
+Author: Ankit Sharma
+Author-email: ankitsharma1831ao@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: dill
+Requires-Dist: xgboost
+Requires-Dist: Flask
+Requires-Dist: setuptools
+Requires-Dist: tensorflow
+Requires-Dist: scikeras
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

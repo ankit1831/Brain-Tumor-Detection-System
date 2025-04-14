@@ -1,0 +1,3 @@
+[ 2025-02-16 12:24:33,005 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-16 12:24:33,005 ] 97 werkzeug - INFO -  * Debugger PIN: 127-181-367
+[ 2025-02-16 12:24:34,061 ] 97 werkzeug - INFO -  * Detected change in 'D:\\vit study\\self preparation\\machine learning\\Brain Tumor Detection System\\src\\components\\model_trainer.py', reloading

@@ -1,0 +1,4 @@
+[ 2025-02-18 19:05:45,392 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-18 19:05:45,402 ] 97 werkzeug - INFO -  * Debugger PIN: 119-479-441
+[ 2025-02-18 19:05:55,448 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 19:05:55] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-02-18 19:05:55,647 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Feb/2025 19:05:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
