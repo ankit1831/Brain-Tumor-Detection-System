@@ -9,4 +9,25 @@ Flask
 setuptools
 tensorflow
 scikeras
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
+bs4
+statsmodels
+plotly
+nbformat
+jupyter
+xgboost
+kneed
+tensorflow
+tensorboard
+scikeras
+PyPDF2
+spacy
 -e .
