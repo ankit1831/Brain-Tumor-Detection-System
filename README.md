@@ -120,9 +120,9 @@ Now, open your browser and go to `http://127.0.0.1:5000` 🎉
 
 ## 🖼 Sample UI
 
-> Upload MRI scans or input symptoms to get real-time predictions from the best-trained model.
+>
 
-*(Add your own screenshots or GIFs here)*
+
 
 ---
 
@@ -130,7 +130,6 @@ Now, open your browser and go to `http://127.0.0.1:5000` 🎉
 
 - ✅ Add Grad-CAM visualization for CNN predictions
 - 🐳 Dockerize the entire application
-- 📊 Add Streamlit or Gradio interface
 - ☁️ Deploy to AWS / Heroku / Render
 - 📈 Model performance dashboard
 
