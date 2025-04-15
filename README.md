@@ -1,11 +1,11 @@
 
 <h1 align="center">🧠 Brain Tumor Detection System</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Flask-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML-CNN%20%7C%20ANN%20%7C%20Classifiers-orange?style=for-the-badge"/>
-</p>
+
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Framework-Flask-blue?style=for-the-badge)
+![ML Techniques](https://img.shields.io/badge/ML-CNN%20%7C%20ANN%20%7C%20Classifiers-orange?style=for-the-badge)
+
 
 ---
 
